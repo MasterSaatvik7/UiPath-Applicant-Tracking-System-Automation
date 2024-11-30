@@ -1,0 +1,42 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "UserType&Sequence_1",
+        "EmployeeName&Sequence_2",
+        "Email&Sequence_2",
+        "Age&Sequence_2",
+        "Phone&Sequence_2",
+        "College&Sequence_2",
+        "Degree&Sequence_2",
+        "CGPA&Sequence_2",
+        "GradYear&Sequence_2",
+        "Internship&Sequence_2",
+        "excelFile&Sequence_2",
+        "EmployeeData&Sequence_2",
+        "Title&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPA_Project_Flowchart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

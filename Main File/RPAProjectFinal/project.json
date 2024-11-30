@@ -1,0 +1,66 @@
+{
+  "name": "RPA_Project_Final",
+  "projectId": "3d939c76-d9f9-4110-ba93-8bb56fd9a8cf",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "InternalLabs.GoogleGemini.Activities": "[1.0.2]",
+    "UiPath.DocumentUnderstanding.Activities": "[2.12.0]",
+    "UiPath.Excel.Activities": "[2.24.3]",
+    "UiPath.IntegrationService.Activities": "[1.9.0]",
+    "UiPath.Mail.Activities": "[1.23.11]",
+    "UiPath.PDF.Activities": "[3.20.1]",
+    "UiPath.System.Activities": "[24.11.0-preview]",
+    "UiPath.Testing.Activities": "[24.10.3]",
+    "UiPath.UIAutomation.Activities": "[24.11.1-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.10.6.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "566f6788-9f06-410d-b656-18b3fe7d654e",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

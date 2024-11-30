@@ -1,0 +1,57 @@
+Alice Bob
++91-1234567890 | alice.bob@gmail.com | LinkedIn Profile | GitHub Profile
+
+Experience
+UiPath Automation Engineer
+Independent Projects | Chennai, India | Jan 2024 – Present
+
+Designed, developed, tested, and deployed automation workflows using UiPath Studio and Orchestrator.
+Collaborated with stakeholders to identify and document automation requirements, ensuring business process optimization.
+Developed reusable components and frameworks to enhance automation scalability and efficiency.
+Monitored and proactively resolved issues in UiPath workflows, ensuring uninterrupted automation processes.
+Conducted code reviews to improve maintainability and performance of automation scripts.
+Software Intern
+STAR Lab Surat | Remote | Sept 2022 – Oct 2022
+
+Automated monitoring and control processes for a rocket test stand using Python and microcontroller integration.
+Designed scalable software solutions with reusable components for enhanced system flexibility.
+Research Intern
+Centre for Advanced Data Science, VIT Chennai | Chennai, India | Mar 2023 – Aug 2023
+
+Conducted advanced research on Neural Networks for solving Partial Differential Equations (PDE).
+Developed and implemented an optimized deep neural network model using Python and TensorFlow.
+Education
+Vellore Institute of Technology (VIT), Chennai
+B.Tech in Computer Science and Engineering | Sept 2021 – May 2025
+
+CGPA: 9.26
+Skills
+Languages: Python, C#, VB.NET, SQL
+Technologies & Tools: UiPath Studio, UiPath Orchestrator, REST APIs, Databases (SQL/NoSQL), TensorFlow
+RPA Knowledge: UiPath Robots, Workflow Automation, Process Analysis, Requirements Gathering
+Soft Skills: Problem Solving, Communication, Team Collaboration, Technical Documentation
+
+Certifications
+UiPath Advanced Developer Certification (In Progress)
+Python Certification – IIT Bombay
+Artificial Intelligence & Machine Learning – Coursera
+Google Cloud Digital Leader Certification
+C/C++ Certification – IIT Bombay
+Projects
+Invoice Processing Automation
+
+Automated end-to-end invoice processing and payment workflows using UiPath, achieving a reduction in manual effort by 80%.
+Employee Onboarding Automation
+
+Designed UiPath workflows to automate HR onboarding, integrating with databases and email systems to streamline the process.
+Automated Toll Tax System
+
+Developed a license plate scanning system using OpenCV, integrated with MongoDB for real-time data storage and automated notifications via Twilio.
+Finance Process Automation
+
+Implemented reusable UiPath components for automating repetitive finance tasks, significantly improving accuracy and efficiency.
+Leadership & Contributions
+Co-founder & Team Leader, Team Enthalpy
+
+Led automation initiatives for rocket testing and collaborated on innovative solutions for payload management.
+Spearheaded partnerships for projects requiring advanced system integration.
